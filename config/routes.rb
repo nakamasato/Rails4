@@ -1,4 +1,6 @@
 Rails4::Application.routes.draw do
+  resources :memos
+
   get "home/index"
   get "home/practice_link"
   # The priority is based upon order of creation: first created -> highest priority.
