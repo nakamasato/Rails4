@@ -12,6 +12,8 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
+
+gem 'gumby-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.0.1'
